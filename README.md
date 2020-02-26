@@ -1,1 +1,2 @@
 # DisabilityActionNZ-DES501
+Disability Action NZ is a informational website that aims to inform both the general public and oragnisations about the issues faced by, and the requirements of, people with disabilities within NZ workplaces. By increasing general awareness of these issues, this project hopes to improve the quality of support for, and understanding of, people with disabilites across the country.
